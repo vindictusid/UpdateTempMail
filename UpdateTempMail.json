@@ -1,16 +1,8 @@
 {
-  "showDialog": true,
-  "appVersionCode": 281,
-  "messageText": "Oops! ⏰ This app has expired. Please update to the latest version.",
-  "updateButtonText": "Update",
-  "updateButtonLink": "https://whatsapp.com/channel/0029Vb6NY4v7NoZs4ADHnm0m",
-  "updateButtonGradientStartColor": "#1E88E5",
-  "updateButtonGradientEndColor": "#64B5F6",
-  "cancelButtonText": "Cancel",
-  "cancelClosesApp": true,
-  "cancelButtonGradientStartColor": "#1E88E5",
-  "cancelButtonGradientEndColor": "#64B5F6",
-  "textGradientStartColor": "#1E88E5",
-  "textGradientEndColor": "#64B5F6",
-  "dialogBackgroundColor": "#FFFFFF"
+  "TempMail": {
+    "version": "4.09",
+    "message": "<b>🚀 PEMBARUAN TERSEDIA</b><br><br><br><b>Apa Yang Baru?</b><br>• Peningkatan Kinerja<br>• Memperbaiki Bug Utama<br>• Desain Tampilan UI Aplikasi<br>• Keamanan Yg Ditingkatkan<br>• Optimasi Perfoma Baterai",
+    "link_download": "https://whatsapp.com/channel/0029Vb71vbsK0IBdYP23kx0y",
+    "version_code": "4.09"
+  }
 }
